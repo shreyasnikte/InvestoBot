@@ -5,3 +5,4 @@ etfs.py
 *.log
 *.save
 *.json
+*.pyc
