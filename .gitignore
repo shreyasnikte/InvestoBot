@@ -1,0 +1,7 @@
+./degiroEnv/
+credentials.py
+etfs.py
+*.csv
+*.log
+*.save
+*.json
